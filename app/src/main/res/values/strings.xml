@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="info_screen_message">Developed by Pratik Banodkar</string>
+    <string name="information">Information</string>
+    <string name="movie_details_url">https://api.themoviedb.org/3/movie/%1$d?api_key=b7cd3340a794e5a2f35e3abb820b497f</string>
+    <string name="images_url">https://api.themoviedb.org/3/movie/%1$d/images?api_key=b7cd3340a794e5a2f35e3abb820b497f</string>
+    <string name="configuration_url">https://api.themoviedb.org/3/configuration?api_key=b7cd3340a794e5a2f35e3abb820b497f</string>
+    <string name="upcoming_movies_url">http://api.themoviedb.org/3/movie/upcoming/?api_key=b7cd3340a794e5a2f35e3abb820b497f&amp;page=%1$d</string>
+    <string name="contentDesc_thumbnail_imageview">Thumbnail Image Preview</string>
+    <string name="fetching_upcoming_movies">Fetching upcoming movies…</string>
+    <string name="fetching_movie_details">Fetching movie details…</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+</resources>
